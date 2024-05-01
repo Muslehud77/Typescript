@@ -33,3 +33,5 @@ let marks : number[] = [66,99]
 let coordinates : [number,number] = [1,5]
 
 let ageName : [number,string] = [25,'musleh']
+
+
